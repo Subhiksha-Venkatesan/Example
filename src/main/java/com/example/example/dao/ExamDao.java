@@ -1,4 +1,4 @@
-package com.example.example.dao;
+ package com.example.example.dao;
 
 import com.example.example.model.Exam;
 
@@ -10,3 +10,4 @@ public interface ExamDao {
 
     public List <Exam> getAll( );
 }
+
